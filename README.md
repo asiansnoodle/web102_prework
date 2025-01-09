@@ -25,6 +25,8 @@ Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/gallery/codepath-web102-submission-AHAhnay' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+gif link: https://imgur.com/gallery/codepath-web102-submission-AHAhnay
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 <!-- Recommended tools:
