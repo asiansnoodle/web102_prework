@@ -23,10 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/AHAhnay' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,6 +35,10 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+Some challenges for me were getting back into the flow of web development. After being on winter break, I had forgotten some concepts about CSS and JavaScript, and it took a bit of documentation reading to remember how to apply some concepts.  
+
+Anther challenge I have faced is obtaining a gif to submit for my submission. I have posted my gif to Imgur, but it seems that in order to view it, the gif must be downloaded in order to be seen. I hope that is okay with my submission.  
 
 ## License
 
